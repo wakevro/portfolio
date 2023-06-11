@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/wakevro/portfolio/static/css/main.a86059f5.css",
+    "main.js": "/wakevro/portfolio/static/js/main.11c58809.js",
+    "static/media/bg.jpeg": "/wakevro/portfolio/static/media/bg.1a97868b8d7bffa37e83.jpeg",
+    "index.html": "/wakevro/portfolio/index.html",
+    "main.a86059f5.css.map": "/wakevro/portfolio/static/css/main.a86059f5.css.map",
+    "main.11c58809.js.map": "/wakevro/portfolio/static/js/main.11c58809.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a86059f5.css",
+    "static/js/main.11c58809.js"
+  ]
+}
